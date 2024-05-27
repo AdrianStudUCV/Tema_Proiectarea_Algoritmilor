@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716838219 source:n:\folder c cu prog\tema_pa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

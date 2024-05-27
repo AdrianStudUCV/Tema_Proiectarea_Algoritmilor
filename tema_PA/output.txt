@@ -1,0 +1,15 @@
+Dimensiunile si Valorile Homarilor:
+Homar 1: Dimensiune = 15 cm, Valoare = 270 Monede De Aur
+Homar 2: Dimensiune = 40 cm, Valoare = 488 Monede De Aur
+Homar 3: Dimensiune = 13 cm, Valoare = 358 Monede De Aur
+Homar 4: Dimensiune = 24 cm, Valoare = 127 Monede De Aur
+Homar 5: Dimensiune = 19 cm, Valoare = 69 Monede De Aur
+
+Capacitatea plasei este 69
+
+Valoarea maxima este: 1116
+
+Homarii selectati sunt:
+Homar 3: Dimensiune = 13 cm, Valoare = 358 Monede De Aur
+Homar 2: Dimensiune = 40 cm, Valoare = 488 Monede De Aur
+Homar 1: Dimensiune = 15 cm, Valoare = 270 Monede De Aur
