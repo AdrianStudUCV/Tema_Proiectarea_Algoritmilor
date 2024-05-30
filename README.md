@@ -1,4 +1,4 @@
-# Tema_Proiectarea_Algoritmilor
+# Tema_Proiectarea_Algoritmilor Cherciu Dumitru Adrian CR1.1A
 INSTRUCTIUNILE:
 Pentru a rula corect programul trebuie respectate cerintele dupa rulare, de exemplu:
 -Introduceti numarul de Homari--un numar natural de preferat, altfel eroare
